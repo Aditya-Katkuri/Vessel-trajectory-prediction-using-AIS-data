@@ -1,7 +1,7 @@
 # Vessel Trajectory Prediction Using AIS Data
 
 ## Overview
-This project focuses on analyzing vessel trajectories using **AIS (Automatic Identification System)** data, aiming to predict trajectories that will help in collision avoidance, destination prediction etc with data cleaning, clustering, and forecasting techniques. The project is conducted under the guidance of **Dr. Luo Wei** at **GeoSpatialX Lab**.
+This project focuses on analyzing vessel trajectories using **AIS (Automatic Identification System)** data, aiming to predict trajectories that will help in collision avoidance, destination prediction etc with data cleaning, clustering, and forecasting techniques. The project is conducted under the guidance of **Dr. Luo Wei** at **GeoSpatialX Lab**, National University of Singapore.
 
 ### Team Members:
 - **Katkuri Aditya Vardhan Reddy**
