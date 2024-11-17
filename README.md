@@ -34,7 +34,7 @@ This project focuses on analyzing vessel trajectories using **AIS (Automatic Ide
    - Resulted in 18 clusters, with 1 identified outlier removed.
 
 <p align="center">
-  <img src="assets/cluster.png" alt="Clustering Visualization" width="500">
+  <img src="assets/cluster.png" alt="Clustering Visualization" width="450">
 </p>
 
 3. **Trajectory Prediction**:
